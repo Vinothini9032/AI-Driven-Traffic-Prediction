@@ -1,0 +1,4 @@
+intersection_id,current_volume,predicted_volume,queue_length,waiting_time,cycle_length,green_time_ns,yellow_time_ns,green_time_ew,yellow_time_ew
+intersection_1,120,150,15,45,159.32692307692307,74.66346153846155,3,74.66346153846152,3
+intersection_2,80,90,10,30,105.0,47.500000000000014,3,47.499999999999986,3
+intersection_3,160,140,35,75,157.97619047619048,79.91244810106478,3,68.0637423751257,3
