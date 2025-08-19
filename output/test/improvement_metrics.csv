@@ -1,5 +1,0 @@
-metric,percentage
-delay_reduction,100.0
-flow_improvement,-100.0
-queue_reduction,100.0
-wait_reduction,100.0

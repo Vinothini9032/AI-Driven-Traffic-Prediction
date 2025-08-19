@@ -1,5 +1,0 @@
-intersection_id,avg_queue_length_ns,avg_queue_length_ew,avg_waiting_time_ns,avg_waiting_time_ew,avg_cycle_length,avg_green_time_ns,avg_green_time_ew,throughput_ns,throughput_ew
-int_1,0,0,0,0,60,25,25,0,0
-int_2,0,0,0,0,60,25,25,0,0
-int_3,0,0,0,0,60,25,25,0,0
-int_4,0,0,0,0,60,25,25,0,0
